@@ -1,7 +1,7 @@
 
 # Surround stereo mod for Motorola X Force XT1581/XT1580
 # !! NEED ROOT !!
-
+## @DEPRECATED
 Sound are so quiet, but stereo and surround.
 ```
 Backup your original files => 
